@@ -10,7 +10,7 @@ fichiers de configuration [X11](https://www.x.org/releases/X11R7.5/doc/input/XKB
 pourquoi
 --------
 
-mes petits auriculaires étaient fatigués d'utiliser `Enter`, `Shift`, `Ctrl`, `Tab`. et mes pouces étaient peu solicité, se partageant à deux une seule touche gigantesque (la barre d'espace). 
+mes petits auriculaires étaient fatigués d'utiliser `Enter`, `Shift`, `Ctrl`, `Tab`. et mes pouces étaient peu sollicités, se partageant à deux une seule touche gigantesque (la barre d'espace). 
 
 donc j'ai tout monté de deux rangées: les signes `béop` se trouvent sous les touches `F1`, `F2` (etc.) et les signes `qxy.,` remplacent `qwertz` (en fait pas exactement: `qxy.,` remplace `<tab>qwert`).
 
@@ -20,6 +20,7 @@ principes:
 - accès facilité et arrangement logique des signes de ponctuation courants en français (`.,'-/:;()`, etc.) et en programmations (`^$[]{}|\`, etc.);
 - utiliser le plus possible les pouces;
 - utiliser le moins possible les auriculaires;
+- remettre les lettres peu courantes en français un peu moins loin que dans le BÉPO (typiquement, le w).
 
 installation
 ============
