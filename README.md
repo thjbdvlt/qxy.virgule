@@ -3,9 +3,9 @@ qxy.,
 
 fichiers de configuration X11 pour une disposition de clavier __BÉPO__ réarrangée.
 
-![qxy., -- touches spéciales](./img/layout.png)
-
 ![qxy., -- repartition des touches entre les doigts](./img/repartition_doigts.png)
+
+![qxy., -- touches spéciales](./img/layout.png)
 
 pourquoi
 --------
