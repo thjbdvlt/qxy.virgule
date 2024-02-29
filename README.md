@@ -5,7 +5,7 @@ fichiers de configuration [X11](https://www.x.org/releases/X11R7.5/doc/input/XKB
 
 ![qxy., -- repartition des touches entre les doigts](./img/repartition_doigts.png)
 
-![qxy., -- touches spéciales](./img/layout.png)
+![qxy., -- touches spéciales](./img/touches_speciales.png)
 
 pourquoi
 --------
