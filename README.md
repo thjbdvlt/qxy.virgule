@@ -3,11 +3,14 @@ qxy.,
 
 fichiers de configuration X11 pour une disposition de clavier __BÉPO__ réarrangée.
 
-![qxy., -- repartition des touches entre les doigts](./img/repartition_doigts.png)
-
 ![qxy., -- touches spéciales](./img/layout.png)
 
-mes petits auriculaires sont fatigués d'utiliser `Enter`, `Shift`, `Ctrl`, `Tab` alors que mes pouces se partagent à deux une seule touche gigantesque (la barre espace). 
+![qxy., -- repartition des touches entre les doigts](./img/repartition_doigts.png)
+
+pourquoi
+--------
+
+mes petits auriculaires étaient fatigués d'utiliser `Enter`, `Shift`, `Ctrl`, `Tab`. et mes pouces étaient peu solicité, se partageant à deux une seule touche gigantesque (la barre d'espace). 
 
 donc j'ai tout monté de deux rangées: les signes `béop` se trouvent sous les touches `F1`, `F2` (etc.) et les signes `qxy.,` remplacent `qwertz`.
 
