@@ -3,7 +3,7 @@ qxy.,
 
 fichiers de configuration [X11](https://www.x.org/releases/X11R7.5/doc/input/XKB-Config.html) pour une disposition de clavier [BÉPO](https://bepo.fr/wiki/Accueil) réarrangée.
 
-![qxy., -- repartition des touches entre les doigts](./img/repartition_doigts.png)
+![qxy., -- repartition des touches entre les doigts](./img/layout.png)
 
 ![qxy., -- touches spéciales](./img/touches_speciales.png)
 
