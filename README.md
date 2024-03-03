@@ -25,10 +25,10 @@ principes:
 installation
 ============
 
-ajouter le contenu du fichier `qxy-point-virgule` au fichier `xkb-fr` (ou à un autre), par exemple avec cette commande:
+ajouter le contenu du fichier `qxy.virgule` au fichier `xkb-fr` (ou à un autre), par exemple avec cette commande:
 
 ```bash
-sudo tee -a /usr/share/XTT/xkb/symbols/fr < ./qxy-point-virgule
+sudo tee -a /usr/share/XTT/xkb/symbols/fr < ./qxy.virgule
 ```
 
 debian + macbook
